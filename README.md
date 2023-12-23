@@ -1,1 +1,2 @@
-# Cell-Regeneration
+# Cell Regeneration
+Regeneration is the process of replacing or restoring damaged or missing cells, tissues, organs, and even entire body parts to full function. All living organisms, including plants and animals, have some ability to regenerate as part of their natural maintenance of tissues and organs. This type of [Cell Regeneration](https://artc.health/theres-nothing-else-like-artc/) is called epimorphosis and is characteristic of regenerating limbs. The second mechanism is called morphallaxis. Here, regeneration occurs through the repatterning of existing tissues, and there is little new growth. Such regeneration is seen in hydras.
